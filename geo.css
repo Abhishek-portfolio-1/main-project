@@ -17,9 +17,9 @@ body{
 }
 .box{
     background-color:#763626;
-    color:white ;
-    width: 900px;
-    height: 100px;
+    color:white;
+    width: 90vw;
+    height: 10vh;
     border: 1px solid #46211A;
     border-radius: 20px;
     padding: 20px;
